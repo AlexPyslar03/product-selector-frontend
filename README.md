@@ -12,7 +12,6 @@
 - [Django](https://www.djangoproject.com) - Основной фреймворк
 - [Django Rest Framework](https://www.django-rest-framework.org) - Реализация RestAPI
 - [Postgress](https://www.postgresql.org) - База данных
-- [Jest](https://jestjs.io) - Библиотека тестирования
 
 ## Стек технологий на front-end:
 - [TypeScript](https://www.typescriptlang.org) - Язык программирования
