@@ -1,10 +1,10 @@
 # Product Selector
 ## Pet проект - сервис по подбору рецептов на основе продуктов
 
-Система авторизации происходит при помощи [JWT](https://jwt.io)
-Стиль API - RestAPI
-Архитектурный шаблон MVC
-Сборка проекта осуществляется при помощи [Docker](https://www.docker.com)
+- Система авторизации происходит при помощи [JWT](https://jwt.io)
+- Стиль API - RestAPI
+- Архитектурный шаблон MVC
+- Сборка проекта осуществляется при помощи [Docker](https://www.docker.com)
 
 ## Стек технологий на back-end:
 - [Python](https://www.python.org) - Язык программирования
@@ -23,8 +23,8 @@
 - [React-Testing-Library](https://testing-library.com) - Бибилиотека тестирования
 
 ## Установка
-Загрузите [Docker](https://www.docker.com)
-Создайте stack:
+- Загрузите [Docker](https://www.docker.com)
+- Создайте stack:
 ```sh
 docker-compose up
 ```
