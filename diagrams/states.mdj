@@ -1,0 +1,479 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Main",
+					"defaultDiagram": true,
+					"ownedViews": [
+						{
+							"_type": "RoundRectView",
+							"_id": "AAAAAAGN/tmMaeUwjM0=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"fillColor": "#FFFFFF00",
+							"font": "Arial;13;0",
+							"left": 232,
+							"top": 248,
+							"width": 912,
+							"height": 552
+						},
+						{
+							"_type": "RoundRectView",
+							"_id": "AAAAAAGN/timluUkTp8=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"fillColor": "#FFFFFF00",
+							"font": "Arial;13;0",
+							"left": 296,
+							"top": 312,
+							"width": 656,
+							"height": 440
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGN/tBlK+Q87xo=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"width": 60,
+							"height": 15
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGN/tBwY+Q/rBo=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"width": 60,
+							"height": 15
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGN/tB4XeRCUls=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"width": 60,
+							"height": 15
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGN/tCWXeRFN/w=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 624,
+							"top": 256,
+							"width": 176,
+							"height": 38,
+							"text": "Выбор рецепта",
+							"horzAlign": 2
+						},
+						{
+							"_type": "RoundRectView",
+							"_id": "AAAAAAGN/tEqC+RMjCY=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 376,
+							"top": 376,
+							"width": 120,
+							"height": 50
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGN/tFM7ORRU4M=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 400,
+							"top": 376,
+							"width": 80,
+							"height": 38,
+							"text": "продукт 1...m"
+						},
+						{
+							"_type": "EllipseView",
+							"_id": "AAAAAAGN/tKjSORxXC8=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"fillColor": "#000000",
+							"font": "Arial;13;0",
+							"left": 312,
+							"top": 384,
+							"width": 24,
+							"height": 24
+						},
+						{
+							"_type": "EllipseView",
+							"_id": "AAAAAAGN/tQGfuSafYw=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"fillColor": "#000000",
+							"font": "Arial;13;0",
+							"left": 312,
+							"top": 496,
+							"width": 24,
+							"height": 24
+						},
+						{
+							"_type": "RoundRectView",
+							"_id": "AAAAAAGN/tSIf+SgtaA=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 376,
+							"top": 482,
+							"width": 120,
+							"height": 46
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGN/tSIf+Sh/Mg=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 400,
+							"top": 482,
+							"width": 80,
+							"height": 51,
+							"text": "Показ списка рецептов"
+						},
+						{
+							"_type": "EllipseView",
+							"_id": "AAAAAAGN/tVvwuS71zY=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"fillColor": "#000000",
+							"font": "Arial;13;0",
+							"left": 576,
+							"top": 496,
+							"width": 24,
+							"height": 24
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGN/tbpEuTxxDg=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"width": 60,
+							"height": 15
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGN/tb9vuT0ci0=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 504,
+							"top": 352,
+							"width": 200,
+							"height": 51,
+							"text": "не выбран список продуктов (продолжаем выбирать продукты)"
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGN/tdCYOT7v0Q=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 528,
+							"top": 424,
+							"width": 184,
+							"height": 25,
+							"text": "выбран список продуктов"
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGN/tdcWeUAMKM=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 496,
+							"top": 464,
+							"width": 112,
+							"height": 25,
+							"text": "выбран рецепт"
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGN/teS+OUQR0c=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 624,
+							"top": 600,
+							"width": 104,
+							"height": 38,
+							"text": "отмена выбора рецепта"
+						},
+						{
+							"_type": "RoundRectView",
+							"_id": "AAAAAAGN/toDhuU5zkI=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 1008,
+							"top": 472,
+							"width": 112,
+							"height": 50
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGN/to/ceU/z9E=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"width": 60,
+							"height": 15
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGN/tpUj+VCvIs=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 1040,
+							"top": 488,
+							"width": 60,
+							"height": 25,
+							"text": "Выбран"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGN/tqnpuVHZXM=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "952:496;1008:495",
+							"headEndStyle": 2
+						},
+						{
+							"_type": "EllipseView",
+							"_id": "AAAAAAGOGanYXj75R1Y=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"fillColor": "#000000",
+							"font": "Arial;13;0",
+							"left": 240,
+							"top": 496,
+							"width": 24,
+							"height": 24
+						},
+						{
+							"_type": "RoundRectView",
+							"_id": "AAAAAAGOGatXkD8NMK8=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 1011,
+							"top": 690,
+							"width": 104,
+							"height": 50
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGOGatXkD8OtSc=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 1024,
+							"top": 704,
+							"width": 77,
+							"height": 38,
+							"text": "не выбран"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGORtrqPpPdAws=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 3,
+							"points": "496:408;560:448;360:448;324:504"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGORt2IqpP+m0E=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 3,
+							"points": "376:384;344:352;520:352;496:392",
+							"tailEndStyle": 2
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGORt75WZQb5vg=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "376:400;336:400",
+							"tailEndStyle": 2
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGORt+gpZQmuus=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "376:504;328:504",
+							"tailEndStyle": 2
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGORuDnbJQ3bdI=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "744:464;744:464"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGORuExYJRAIL0=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "496:504;575:504",
+							"headEndStyle": 2
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGORuII9JRM2Ho=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 3,
+							"points": "464:528;584:672;1008:712",
+							"headEndStyle": 2
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGORuXV25SKDsI=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "192:432;192:432"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGORuX0EpSSglk=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "256:504;287:504",
+							"headEndStyle": 2
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGORucZUpSh6oI=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "296:456;952:456",
+							"lineMode": 2
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGORvKGzKDB0eY=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "328:336;920:336"
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGORvK+06DHAFQ=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 576,
+							"top": 312,
+							"width": 85.58154296875,
+							"height": 25,
+							"text": "Незавершен"
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGORtL1xZMsIiE=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Class1"
+				},
+				{
+					"_type": "UMLObject",
+					"_id": "AAAAAAGORtNzFJNtgCA=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Object1"
+				}
+			]
+		}
+	]
+}
