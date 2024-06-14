@@ -1,21 +1,30 @@
-# МАИ 304 кафедра М3О-310Б-21
-## Низкоуровневая архитектура программного обеспечения
-## Бригада № 8 (Программа подбора рецептов на основе имеющихся продуктов)
-- ### [Пысларь Александр Игоревич](https://t.me/alex_pyslar)
-- ### Поташников Андрей
-- ### Горшков Данил
-## [Дизайн приложения](https://www.figma.com/design/3URWjQbdKm7UgLHLTo5Vps/Babushkin's-bukkakes?node-id=0%3A1&t=JYmri98LYRh3Npab-1)
-## Диаграммы:
-- ### Классов:
-![](img/class.png "Class")
-- ### Взаимодействий:
-![](img/activity.png "Activity")
-- ### Компонентов:
-![](img/components.png "Сomponents")
-- ### Состояний:
-![](img/states.png "States")
-- ### UseCase:
-![](img/usecase.png "Usecase")
+# Product Selector
+## Pet проект - сервис по подбору рецептов на основе продуктов
 
+Система авторизации происходит при помощи [JWT](https://jwt.io)
+Стиль API - RestAPI
+Архитектурный шаблон MVC
+Сборка проекта осуществляется при помощи [Docker](https://www.docker.com)
 
-### Добавить builder рецептов
+## Стек технологий на back-end:
+- [Python](https://www.python.org) - Язык программирования
+- [Django](https://www.djangoproject.com) - Основной фреймворк
+- [Django Rest Framework](https://www.django-rest-framework.org) - Реализация RestAPI
+- [Postgress](https://www.postgresql.org) - База данных
+- [Jest](https://jestjs.io) - Библиотека тестирования
+
+## Стек технологий на front-end:
+- [TypeScript](https://www.typescriptlang.org) - Язык программирования
+- [Node.js](https://nodejs.org) - Платформа
+- [React.js](https://react.dev) - Основной фреймворк
+- [Axios](https://axios-http.com) - Получание данных с backend части
+- [Redux](https://redux.js.org) - Управление глобальными состояниями
+- [Ant Design](https://ant.design/) - Библиотека UI компонентов
+- [React-Testing-Library](https://testing-library.com) - Бибилиотека тестирования
+
+## Установка
+Загрузите [Docker](https://www.docker.com)
+Создайте stack:
+```sh
+docker-compose up
+```
