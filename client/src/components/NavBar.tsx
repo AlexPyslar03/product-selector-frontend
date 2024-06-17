@@ -23,7 +23,7 @@ const NavBar: FC = () => {
         <Layout.Header style={headerStyle}>
             <Row>
                 <Col span={10}>
-                    <Title style={titleStyle} level={2}>Babushkin's Bukkakes</Title>
+                    <Title style={titleStyle} level={2}>Product Selector</Title>
                 </Col>
                 <Col span={10}>
                     <Title style={divisionStyle} level={3}>"Вкусно и сночно, как у бубушки"</Title>
